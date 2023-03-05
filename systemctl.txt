@@ -1,0 +1,4 @@
+systemctl enable bluetooth.service
+systemctl start bluetooth.service
+systemctl enable cups.service
+systemctl start cups.service
