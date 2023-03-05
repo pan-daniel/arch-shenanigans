@@ -1,0 +1,12 @@
+1password
+anki
+cnrdrvcups-lb
+cryptomator
+fcitx5-mozc-ut
+insync
+jetbrains-toolbox
+lib32-opencl-nvidia-470xx
+mozc-ut
+opencl-nvidia-470xx
+openrgb
+spotify
